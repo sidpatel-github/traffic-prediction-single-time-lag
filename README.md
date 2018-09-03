@@ -1,7 +1,7 @@
 # traffic-prediction-single-time-lag
 
 A prediction model to predict a traffic to next time interval is developed. Two different prediction models are used i.e. LSTM and CNN and 
-their performance is compared in order to analyse which one is better.
+their performance is compared in order to analyze which one is better.
 
 This is called a "time series" problem and people are normally using LSTM for this kind of problem but after comparing the performance of 
 LSTM with CNN I found out that CNN performs better.
